@@ -5,5 +5,5 @@ based on [NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme)
 ## Image
 <details>
   <summary> Preview </summary>
-  <img src="https://github.com/Peekayee/BetterDiscord-Theme/blob/main/images/Theme.png">
+  <img src="https://github.com/Sidewinderr/BetterDiscord-Theme/blob/main/images/DiscordTheme.png">
   </details>
