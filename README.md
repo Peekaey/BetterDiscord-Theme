@@ -1,7 +1,6 @@
 
 # BetterDiscord Theme  
 based on [NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme)  
-edited with [Spectra's Theme editor](https://www.limeshark.dev/editor)
 
 ## Image
 <details>
